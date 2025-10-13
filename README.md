@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Payal Koregave!
+# Hi, I'm Payal Koregave!
 
 💻 I'm a passionate **Computer Science student** and **aspiring Cybersecurity & Web Developer**.  
 🚀 I love building real-world projects using **HTML, CSS, JavaScript, Node.js, and React.js**.  
