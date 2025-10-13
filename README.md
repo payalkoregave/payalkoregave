@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Payal Koregave!
 
-<!--
-**payalkoregave/payalkoregave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a passionate **Computer Science student** and **aspiring Cybersecurity & Web Developer**.  
+🚀 I love building real-world projects using **HTML, CSS, JavaScript, Node.js, and React.js**.  
+🔒 Currently exploring **Cybersecurity** and building awareness projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- 💻 Languages: C, C++, Python, JavaScript  
+- 🌐 Web: HTML, CSS, Bootstrap, React.js, Node.js  
+- 🗄️ Databases: MySQL, MongoDB  
+- 🔧 Tools: Git, GitHub, VS Code, Kali Linux  
+
+---
+
+### 🌱 I’m currently working on:
+- 🔐 **Cybersecurity Awareness Portal**
+- 📅 **task manager App**
+
+---
+
+### 📫 Connect with me:
+- 💼 [GitHub Profile](https://github.com/payalkoregave)
+- --
+
+⭐ **"Code. Learn. Repeat."**
