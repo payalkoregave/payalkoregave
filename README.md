@@ -15,13 +15,14 @@
 ---
 
 ### 🌱 I’m currently working on:
-- 🔐 **Cybersecurity Awareness Portal**
+- 🔐 **Cybersecurity blogs**
 - 📅 **task manager App**
+- 
 
 ---
 
 ### 📫 Connect with me:
-- 💼 [GitHub Profile](https://github.com/payalkoregave)
+- 💼https://github.com/payalkoregave
 - --
 
 ⭐ **"Code. Learn. Repeat."**
