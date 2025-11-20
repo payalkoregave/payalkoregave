@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tech Stack:
-- 💻 Languages: C, C++, Python, JavaScript  
+- 💻 Languages: C, C++, JavaScript  
 - 🌐 Web: HTML, CSS, Bootstrap, React.js, Node.js  
 - 🗄️ Databases: MySQL, MongoDB  
 - 🔧 Tools: Git, GitHub, VS Code, Kali Linux  
@@ -16,7 +16,7 @@
 
 ### 🌱 I’m currently working on:
 - 🔐 **Cybersecurity blogs**
-- 📅 **task manager App**
+-  🤖**AI sccanner**
 - 
 
 ---
