@@ -98,9 +98,6 @@ An interactive website built to demonstrate common attack techniques and raise s
 **🤖 AI Security Scanner**
 An AI-powered tool for vulnerability detection and automated security scanning.
 
-> Tip: link each project title to its repo, e.g. `[Web Application Firewall](https://github.com/payalkoregave/your-repo)`, so visitors can click straight through.
-
----
 
 ### 📊 GitHub Stats
 
